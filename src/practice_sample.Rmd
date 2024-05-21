@@ -9,6 +9,14 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+## What is this document?
+
+This is a practice document to be developed during the 2024 DSPG R
+training with Dr. [Nathaniel D. Porter](https://github.com/ndporter) and
+adapted by each intern. The training is based on lesson material from
+Data Carpentry's [R for Social
+Science](https://datacarpentry.org/r-socialsci/) curriculum.
+
 ## R Markdown
 
 This is an R Markdown document. Markdown is a simple formatting syntax
